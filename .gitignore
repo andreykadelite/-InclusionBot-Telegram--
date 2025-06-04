@@ -1,0 +1,5 @@
+# Ignore data and env files
+/data/
+.env
+__pycache__/
+inclusion_bot/database/inclusion.db
